@@ -8,3 +8,5 @@ adjusting the ’On’ and ’OFF’ duty cycle. In the learning task, an iterat
 ![figure1](https://user-images.githubusercontent.com/24733570/40410259-9f13edfe-5e6d-11e8-9da3-ee60d985d2c7.jpg)
 ## Algorithm and code
 Since the framework is part of a paper recently submitted and once it is accepted and published, we will release the technical details later. 
+## Reference and contact
+Adnan Shahid, Vasilis Maglogiannis, Irfan Ahmed, Kwang Soon Kim, Eli De Poorter, Ingrid Moerman, "Energy-efficient resource allocation for ultra-dense licensed and unlicensed dual-access small cell networks", submitted to IEEE Transaction on Mobile computing, 2018.  
