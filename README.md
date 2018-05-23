@@ -7,7 +7,7 @@ In the proposed self-organizing framework, each dualaccess small base station ha
 adjusting the ’On’ and ’OFF’ duty cycle. In the learning task, an iterative mechanism is taken into account for the allocation of sub-channels and power levels with the concern of enhancing the energy efficiency without affecting the QoS requirements of the small cell users and the macro cell users, respectively. In the tuning task, the best learned strategies from the task 2 are updated by each dual-access small cell. The objective of the proposed self-organizing framework is to enhance the energy efficiency by exploiting sub-channels and power levels of ultra-dense small cells without creating harmful impact on other network entities. In order to achieve this, a less-complex iterative algorithm using a non-cooperative game is proposed, which is suitable for the self-organizing environment. 
 ![figure1](https://user-images.githubusercontent.com/24733570/40410259-9f13edfe-5e6d-11e8-9da3-ee60d985d2c7.jpg)
 ## Algorithm and code
-Since the framework is part of a paper recently submitted and once it is accepted and published, we will release the technical details later. 
+Since the framework is part of a paper recently submitted and once it is accepted and published, we will release the technical details. 
 ## Reference and contact
 _*Adnan Shahid, Vasilis Maglogiannis, Irfan Ahmed, Kwang Soon Kim, Eli De Poorter, Ingrid Moerman, "Energy-efficient resource allocation for ultra-dense licensed and unlicensed dual-access small cell networks", submitted to IEEE Transaction on Mobile computing, 2018.*_  
 
